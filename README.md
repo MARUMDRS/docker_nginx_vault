@@ -26,6 +26,7 @@ Ensure you have the following installed on your system:
 - [Docker](https://www.docker.com/get-started)
 - [Docker Compose](https://docs.docker.com/compose/install/)
 - [htpasswd](https://httpd.apache.org/docs/2.4/programs/htpasswd.html)
+- [SelfSigned SSL Certificates](https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl-certificate-for-nginx-in-ubuntu-16-04) *if needed*
 
 ### Installation
 
