@@ -27,7 +27,12 @@ Ensure you have the following installed on your system:
 - [Docker Compose](https://docs.docker.com/compose/install/)
 - [htpasswd](https://httpd.apache.org/docs/2.4/programs/htpasswd.html)
 - [SelfSigned SSL Certificates](https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl-certificate-for-nginx-in-ubuntu-16-04) *if needed*
+- [LetsEncryptCerts](https://macdonaldchika.medium.com/how-to-install-tls-ssl-on-docker-nginx-container-with-lets-encrypt-5bd3bad1fd48)
 
+Other places for further info:
+-[Docker Volumes & Mounts](https://docs.docker.com/storage/volumes/)
+(https://docs.docker.com/storage/bind-mounts/)
+-[Nginx in Docker](https://www.docker.com/blog/how-to-use-the-official-nginx-docker-image/)
 ### Installation
 
 1. Clone the repository:
