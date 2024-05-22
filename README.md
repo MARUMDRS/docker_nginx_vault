@@ -29,7 +29,7 @@ Ensure you have the following installed on your system:
 - [SelfSigned SSL Certificates](https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl-certificate-for-nginx-in-ubuntu-16-04) *if needed*
 - [LetsEncryptCerts](https://macdonaldchika.medium.com/how-to-install-tls-ssl-on-docker-nginx-container-with-lets-encrypt-5bd3bad1fd48)
 
-Other places for further info:
+Other places for further study:
 -[Docker Volumes & Mounts](https://docs.docker.com/storage/volumes/)
 (https://docs.docker.com/storage/bind-mounts/)
 -[Nginx in Docker](https://www.docker.com/blog/how-to-use-the-official-nginx-docker-image/)
