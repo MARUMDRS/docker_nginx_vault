@@ -54,9 +54,11 @@ If you want to access the /admin page, an htpasswd file is neeeded.
     }
 
 2. Docker Compose File
+
 The docker-compose.yml file includes two services: vaultwarden and nginx. You can tweak them as you like.
 
 3.  Nginx Configuration
+
 The nginx.conf file contains the configuration of the nginx server.
 
 ## Usage
