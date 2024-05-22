@@ -31,7 +31,7 @@ Ensure you have the following installed on your system:
 
 Other places for further study:
 -[Docker Volumes](https://docs.docker.com/storage/volumes/)
--[Mounts](https://docs.docker.com/storage/bind-mounts/)
+-[Docker Mounts](https://docs.docker.com/storage/bind-mounts/)
 -[Nginx in Docker](https://www.docker.com/blog/how-to-use-the-official-nginx-docker-image/)
 ### Installation
 
