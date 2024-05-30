@@ -70,3 +70,6 @@ The nginx.conf file contains the configuration of the nginx server.
 ## Usage
 Once the containers are up and running, you can access Vaultwarden at https://your-domain.com (replace with your actual domain).
 
+***
+[Securing Your Nginx Web Server](https://medium.com/@maxel333/securing-your-nginx-web-server-8450b95dab8d)
+
