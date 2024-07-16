@@ -37,7 +37,7 @@ Other places for further study:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your_username/vaultwarden-nginx.git
+   git clone https://github.com/MARUMDRS/vaultwarden-nginx.git
    cd vaultwarden-nginx
 
 2. Customize the configuration files as needed.
