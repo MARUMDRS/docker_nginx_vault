@@ -7,7 +7,7 @@ services:
     environment:
       DOMAIN: "https://your-domain.com"
     volumes:
-      - /vw-data:/data
+      -v /vw-data:/data
     networks:
       - vw-network
 
